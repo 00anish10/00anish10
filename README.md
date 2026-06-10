@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Shrestha</h1>
 <h3 align="center">A Passionate Full Stack Developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=00anish10&label=Profile%20views&color=0e75b6&style=flat" alt="00anish10" /> </p>
 
 - 🔭 I’m currently working on [MedicSewa Pvt. Ltd.](https://github.com/medicsewa/careflux-website)
 
@@ -18,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anish-shrestha-b79960343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anish-shrestha-b79960343/" height="30" width="40" /></a>
-<a href="https://kaggle.com/anish shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anish shrestha" height="30" width="40" /></a>
-<a href="https://instagram.com/shresthakirito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shresthakirito" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kiritodon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kiritodon" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shresthakirito/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shresthakirito/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
