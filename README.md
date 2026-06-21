@@ -12,7 +12,7 @@ I build real-world applications and enjoy solving complex problems through code.
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[MedicSewa Pvt. Ltd.](https://github.com/medicsewa/careflux-website)**
+- 🔭 Currently working on **[MedicSewa Pvt. Ltd.](https://github.com/medicsewa)**
 - 🌱 Currently learning **Node.js, PostgreSQL,Python, Docker, and AWS**
 - 👨‍💻 All my projects are available on my **[Portfolio](https://github.com/00anish10/Portfolio)**
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, and Tailwind CSS**
